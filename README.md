@@ -16,4 +16,4 @@
 
 ## Visit Count
 
-![Visitor Count](https://profile-counter.glitch.me/leezp/count.svg)
+![](https://profile-counter.glitch.me/leezp/count.svg)
